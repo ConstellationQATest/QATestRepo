@@ -1,1 +1,0 @@
-GitignoreThis file contains a list of files for git to ignore
